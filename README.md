@@ -8,3 +8,5 @@ Hi, my name is Luvus
 
 ### Currently working on:
 - mafe (https://github.com/Luke22076/mafe)
+- mafe-systems (https://mafe-systems.org/)
+- knowliapp (https://knowliapp.de/)
